@@ -62,7 +62,7 @@ const questions = () => {
             type: "checkbox",
             name: "License",
             message: "Which license would you like to apply to this project?",
-            choices: ["Academic Free License v3.0", "Educational Community License v2.0", "MIT", "Mozilla Public License 2.0"],
+            choices: ["Apache License, Version 2.0", "GNU General Public License", "MIT", "Mozilla Public License 2.0"],
             validate: licenseChoices => {
                 if (licenseChoices) {
                     return true;
@@ -100,8 +100,8 @@ const questions = () => {
         },
         {
             type: "input",
-            name: "contactName",
-            message: "Please include your name for users who need to contact you with their questions.",
+            name: "contactUsername",
+            message: "Please include your Github username for users who need to contact you with their questions.",
             validate: contactNameInput => {
                 if (contactNameInput) {
                     return true;

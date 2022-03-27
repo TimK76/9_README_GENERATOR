@@ -37,6 +37,8 @@ This project is the result of a class assignment to create a README generator us
 
 [Starter Code](https://github.com/coding-boot-camp/potential-enigma)
 
+[Open Source Licenses](https://opensource.org/licenses)
+
 ## Tests
 
 ## Questions
