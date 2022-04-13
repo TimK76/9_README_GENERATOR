@@ -8,38 +8,38 @@ const path = require('path');
 const questions = [
     {
         type: "input",
-        name: "Title",
+        name: "title",
         message: "What is the title of your project?",
     },
     {
         type: "input",
-        name: "Description",
+        name: "description",
         message: "Please write your project description here?",
     },
     {
         type: "input",
-        name: "Installation",
+        name: "installation",
         message: "How will your users install the project on their machines?",
     },
     {
         type: "input",
-        name: "Usage",
+        name: "usage",
         message: "What is the usage of this project?",
     },
     {
-        type: "checkbox",
-        name: "License",
+        type: "list",
+        name: "license",
         message: "Which license would you like to apply to this project?",
-        choices: ["Academic Free License v3.0", "Educational Community License v2.0", "MIT", "Mozilla Public License 2.0"],
+        choices: ["Apache", "Boost", "MIT", "Mozilla Public License 2.0", "none"],
     },
     {
         type: "input",
-        name: "Contributing",
+        name: "contributing",
         message: "How may others contribute to this project?",
     },
     {
         type: "input",
-        name: "Tests",
+        name: "tests",
         message: "Please enter testing instructions.",
     },
     {
