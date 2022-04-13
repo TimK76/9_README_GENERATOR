@@ -1,9 +1,9 @@
 
-  # apoweuinf
+  # Tim's nEwNeW README
 
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   ## Description 
-    aqepwin
+    apwoeun
 
 
   # Table of Contents
@@ -18,20 +18,20 @@
 
   ## Installation
 
-  awepo
+  qpaowefn
 
   ## Usage
-  iabeuwf
+  qwpeofn
 
   ## License
-    Boost
+    Mozilla Public License 2.0
 
   ## Contributing
-  qp9weunf
+  laeiwnb
 
   ## Tests
-  aqeopwufn
+  qwpefino
 
   ## Questions
-  My name is awepoifiun. If you have questions please follow these directions to contact me: wpieufn. If you've read these directions and agree to follow them then please email me at pawefiuh. Thank you; I hope you'll enjoy using this application.
+  My name is TIMOTHY. If you have questions please follow these directions to contact me: Please email me with all questions.. If you've read these directions and agree to follow them then please email me at TIM@tim.com. Thank you; I hope you'll enjoy using this application.
   
