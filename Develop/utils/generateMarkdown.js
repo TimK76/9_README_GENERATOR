@@ -14,16 +14,16 @@ function renderLicenseSection(license) { }
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # ${data.title}
-  ## [Description](${answer.description}
+  # [${data.title}]
+  ## [Description](${data.description})
   # Table of Contents
-      ### 1. [Description](${answer.description}).
-      ### 2. [Installation](${answer.installation}).
-      ### 3. [Usage](${answer.usage}).
-      ### 4. [License](${answer.license}).
-      ### 5. [Contibuting](${answer.contributing}).
-      ### 6. [Tests](${answer.tests}).
-      ### 7. [Questions](My name is ${answer.contactName}. If you have questions please follow these directions to contact me: ${answer.contactDirections}. If you've read these directions and agree to follow them then please email me at ${answer.contactEmail}. Thank you; I hope you'll enjoy using this application.).
+  ### 1. [Description](${data.description}).
+  ### 2. [Installation](${data.installation}).
+  ### 3. [Usage](${data.usage}).
+  ### 4. [License](${data.license}).
+  ### 5. [Contibuting](${data.contributing}).
+  ### 6. [Tests](${data.tests}).
+  ### 7. [Questions](My name is ${data.contactName}. If you have questions please follow these directions to contact me: ${data.contactDirections}. If you've read these directions and agree to follow them then please email me at ${data.contactEmail}. Thank you; I hope you'll enjoy using this application.).
   ## Installation
   ## Usage
   ## License
