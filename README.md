@@ -25,15 +25,19 @@ This project is the result of a class assignment to create a README generator us
 
 
 ## Installation
-
+This should be run through Node.js
 ## Usage
-
+Here is a [walkthrough video](https://drive.google.com/file/d/1XbuipSzIjWOog2e6qIEb5-Xc02AwuX3u/view) for this project.
 ## License
-
+MIT
 ## Credits & Resources
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 [Tutorial: Manually create a Markdown table of contents for your GitHub README](https://www.setcorrect.com/portfolio/work11/)
+
+[W3schools.io Markdown - Links](https://www.w3schools.io/file/markdown-links/)
+
+[Markdown License Badges](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
 
 [Starter Code](https://github.com/coding-boot-camp/potential-enigma)
 
